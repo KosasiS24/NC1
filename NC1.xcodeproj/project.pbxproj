@@ -56,13 +56,13 @@
 		532B672322906F9000E8C295 /* NC1 */ = {
 			isa = PBXGroup;
 			children = (
-				532B6736229071E700E8C295 /* Sound */,
 				532B672422906F9000E8C295 /* AppDelegate.swift */,
 				532B672622906F9000E8C295 /* ViewController.swift */,
 				532B672822906F9000E8C295 /* Main.storyboard */,
 				532B672B22906F9100E8C295 /* Assets.xcassets */,
 				532B672D22906F9100E8C295 /* LaunchScreen.storyboard */,
 				532B673022906F9100E8C295 /* Info.plist */,
+				532B6736229071E700E8C295 /* Sound */,
 			);
 			path = NC1;
 			sourceTree = "<group>";
