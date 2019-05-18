@@ -49,6 +49,10 @@ class ViewController: UIViewController {
                 self.Button.frame.size = CGSize(width: 300, height: 300)
                 self.Button.setTitle("WIN", for: .normal)
                 self.audio.stop()
+                
+                self.view.backgroundColor = #colorLiteral(red: 1, green: 0, blue: 0, alpha: 1)
+                self.Button.isHidden = true
+                
             }
         }
     }
